@@ -1,0 +1,6 @@
+{
+  "name": "Intelligence",
+  "description": "Modern Enterprise Intelligence platform to capture, organize, and synthesize meeting assets into actionable takeaways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
